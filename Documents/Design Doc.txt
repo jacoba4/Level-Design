@@ -1,0 +1,36 @@
+Concept:
+	This island is home to an order of corrupted paladins. They worship the deity of blood
+	and death. Their main goal is to capture and sacrifice worshippers of the opposing
+	deity
+	
+Environment:
+	Outside:
+		Dusk - Night
+	
+		Mediterranean climate. This means clear water, white rocky shores, etc.
+	
+		Vegetation:
+			evergreen (bay laurel, pine)
+			deciduous (sycamore, oak)
+			shrubs (rosemary chamise)
+			grasses (grassland types, sedges, rushes)
+		
+	Inside:
+		
+
+Beginning:
+	Player arrives via small boat on the shore in a cove. High white rocky cliffs shelter a sandy beach.
+	Ahead is a forest with a torchlit path.
+	
+Ending:
+	Final room in the lair. Large open sky cathedral, sacrificial altar and throne, surrounded by mountains
+	(see "open sky" bookmark)
+	
+Goal:
+	Reach the cathedral, defeat High Bloodlord Malahel and his order of paladins
+
+Reward:
+	The High Bloodlord's sword and armor, as well as the lives of the captured sacrificees
+	
+Failure:
+	Player dies and Malahel continues sacrifices and spreads corruption

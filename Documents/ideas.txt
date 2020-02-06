@@ -1,0 +1,25 @@
+Cultist Cathedral
+	Island
+		Dark atmosphere
+		night time
+		torches leading to entrance
+		trees with carvings
+		symbols of deity
+		
+	Entrance
+		Small cabin?
+		might be easier to just do cave entrance
+		steps down, dimly lit by torches
+		
+	Inside
+		single large room?
+		columns (roman doric? greek doric backup)
+		
+Backstory
+	Order of corrupted paladins
+	worship some deity of death/blood
+	colors:
+			Red or Purple? (depends on deity)
+			Black (dur)
+			Silver?
+			
