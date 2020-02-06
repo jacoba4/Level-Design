@@ -1,3 +1,32 @@
+External Goals
+
+Major External Point
+	An interesting side quest in a game
+
+Genre
+	High Fantasy world, magic, monsters, the whole 9 leagues
+	
+External goals?
+	no
+
+
+
+
+Internal Goals
+
+Purpose of level
+	Serve as a sidequest and should the player succeed, prevents future problems
+	
+Relative size of level to game
+	Small, one of many quests
+
+What does the level need to accomplish
+	Expand player's knowledge of the setting, prevents an encounter in the future,
+	gives access to new allies, and provides loot
+
+
+
+
 Concept:
 	This island is home to an order of corrupted paladins. They worship the deity of blood
 	and death. Their main goal is to capture and sacrifice worshippers of the opposing
@@ -14,9 +43,21 @@ Environment:
 			deciduous (sycamore, oak)
 			shrubs (rosemary chamise)
 			grasses (grassland types, sedges, rushes)
+			
+		Links:
+			1) Island - https://www.artstation.com/artwork/6aZdZ0
+			2) Island 2 - https://www.artstation.com/artwork/ROg3W
+			3) Cave Entrance - https://www.artstation.com/artwork/wz38O
+			
+			
 		
 	Inside:
-		
+	
+		Links:
+			1) Blood Knights - https://www.artstation.com/artwork/L2Ve2l
+			2) Dark Cathedral - https://www.artstation.com/artwork/ZqxKN
+			3) Open Sky Altar - https://www.wallpaperflare.com/architecture-art-cathedral-colors-creature-dark-demons-wallpaper-ubkms
+			4) Bone Altar - https://www.artstation.com/artwork/XB6ez3
 
 Beginning:
 	Player arrives via small boat on the shore in a cove. High white rocky cliffs shelter a sandy beach.
@@ -24,7 +65,7 @@ Beginning:
 	
 Ending:
 	Final room in the lair. Large open sky cathedral, sacrificial altar and throne, surrounded by mountains
-	(see "open sky" bookmark)
+	(see link 3(Open Sky Altar) in Inside)
 	
 Goal:
 	Reach the cathedral, defeat High Bloodlord Malahel and his order of paladins
