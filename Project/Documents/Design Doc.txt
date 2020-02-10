@@ -75,3 +75,11 @@ Reward:
 	
 Failure:
 	Player dies and Malahel continues sacrifices and spreads corruption
+	
+	
+Rooms
+	1) Entryway after descending the stairs
+	
+	2) Great hall with symbols, prisoners, etc.
+	
+	3) Opens to outside, surrounded by mountains, thin path leading to floating "island" with altar and sacrifice on top. Path and island rise above a large pit
