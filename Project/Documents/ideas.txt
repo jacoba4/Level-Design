@@ -6,8 +6,15 @@ Cultist Cathedral
 		trees with carvings
 		symbols of deity
 		
+		side path leads to cabin overlooking sea
+			has notes explaining the order's arrival and dark turn
+			eventually leads to the order coming to take the old 
+			man as their first sacrifice
+		
+		Hilly area between forest and final mountain circle
+		
 	Entrance
-		Small cabin?
+		Small cabin with entrance in basement?
 		might be easier to just do cave entrance
 		steps down, dimly lit by torches
 		

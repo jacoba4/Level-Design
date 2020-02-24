@@ -1,0 +1,203 @@
+Player Character
+	Who is the player?
+		As this is an RPG, the character is more loosely defined. The specifics 
+		 (species, looks, personality) are defined by the player. 
+		 
+		Overall, the player is an adventurer that accepts this quest to remove
+		 the order of knights
+	
+	Where does the player start?
+		The player arrives to the island via boat. They dock in the cove on the 
+		 southern side of the island. From here, they may explore the island to
+		 the north, east, and west.
+		 
+Objectives
+	What does the player need to do?
+		To complete this quest, the player must enter the Order's underground
+		 stronghold and slay its leader
+	
+	What objectives does the PC have a choice in doing?
+		If the player decides to explore, they may find the old man's cabin
+		 on the southeastern cliff edge. In the cabin are clues that lead to
+		 revealing the Order's arrival and eventual turn to corruption
+
+Difficulty
+	Where does this level fall in the overall game difficulty graph
+		As this quest takes place between the middle and end of the game, the
+		 difficulty will be moderately high.
+		
+		As far as difficulty curve within the level, it starts easy as the
+		 player is alone when they dock. Then, as the player enters the Order's
+		 lair, the difficulty spikes moderately when they encounter the first
+		 members of the Order. Having defeated these low ranking members, the
+		 difficulty sinks until the player reaches the knights guarding the path
+		 to the final altar. These are higher ranking knights who will prove a
+		 greater challenge. Finally,the difficulty spikes to a climax for the 
+		 battle with the Order's Bloodlord.
+
+Location
+	Where in the universe does this level take place?
+		This takes place far from the capitol city which lies on the west coast
+		 of the continent. The Island is about a day's sail from the southeast 
+		 coast of the continent.
+
+Environment
+	Weather?
+		As this island mirrors a Mediterranian climate and the game takes place
+		 during the spring and summer. Therefore, the current weather is dry, warm,
+		 and clear.
+	
+	Time of day?
+		The player arrives around dusk, with sunset happening during the final encounter
+	
+	Geographical
+		As stated previously, Mediterranian.
+		From the Design Doc:
+			Mediterranean climate. This means clear water, white rocky shores, etc.
+	
+			Vegetation:
+				evergreen (bay laurel, pine)
+				deciduous (sycamore, oak)
+				shrubs (rosemary chamise)
+				grasses (grassland types, sedges, rushes)
+			
+			Links:
+				1) Island - https://www.artstation.com/artwork/6aZdZ0
+				2) Island 2 - https://www.artstation.com/artwork/ROg3W
+				3) Cave Entrance - https://www.artstation.com/artwork/wz38O
+	
+	Architectural
+		This high fantasy setting overall has a Romanesque architectural style, though
+		 this island has more of a mediterranian influence. Namely Roman and Greek Doric
+
+Enemies
+	Lower ranking members
+		The inital group of enemies will be the lowest ranking members of the Order.
+		 They will be equipped with scale and chainmail armor and wield longswords and shields
+		
+		The second group of enemies will be the higher ranking members of the Order.
+		 They will be equipped with plate armor and heavier weapons, greatswords, halberds,
+		 tower shields, etc.
+		
+		The Bloodlord, the last encounter, wears heavy plate armor and wields a massive
+		 sword. With him is his Archbishop and his Hand. The Archbishop wears robes sporting
+		 the colors of the Order and uses magic to fight. The Hand wields a tower shield 
+		 and a longsword.
+
+		It is also worth mentioning that the Order also fights using the powers of their
+		 deity which includes blood and death magic.
+
+Gamplay Elements
+	Stealth
+		Depending on the customization of the player character, the player may have the
+		 option, given that they have the required skills, of sneaking past the first group
+		 of knights.
+	
+	Combat
+		Combat in this quest follows the combat style of the rest of the game. Real time 
+		 action combat. 
+	
+	Exploring
+		The player is rewarded for exploring. In side rooms of this quest lie rewards and
+		 loot such as potions, money, and lore elements.
+
+Position
+	Where in the game does this level take place?
+		This level takes place between the middle and end of the game. Here, the player has
+		a good understanding of combat, the world, and how it works, and how it came to be.
+		
+	What level comes before and after this?
+		As this level is a side quest, it may take place any time, if at all, between the
+		 midpoint and climax of the game.
+		 
+
+
+
+
+
+Flow Model
+	See attatched "Level Design Flow.png"
+	
+Ingredients
+	Island landscape (For specifics, see island layout draft)
+		Shape 
+		Path
+		Hills
+		Mountains
+		Forest
+		
+	Vegetation (For specifics, see Design Doc)
+		Trees
+		Shrubs
+		Grasses
+	
+	Buildings
+		Old man's hut
+		Dock
+		Stronghold entrance
+		Tunnels
+		Stairs
+		Rooms dug out
+		Pillars
+	
+	Props
+		Outside
+			Boat
+		Inside
+			Halls/main hall
+				Doors
+				Throne
+			Barracks
+				Beds
+				Chests
+				Table
+				Stools
+			Storage Room
+				Storage items
+			Head Chambers
+				Large bed
+				Dresser
+			Final Sacrificial Chambers
+				Altar
+				Misc props
+
+Encounters
+	#1 (Low ranking knights)
+		4 Shield Knights
+		2 Acolytes
+	
+	#2 (High ranking knights)
+		2 Tower Shield Knights
+		1 Greatsword Knight
+		1 Bishop
+	
+	#3 (Final)
+		1 Bloodlord
+		1 Hand
+		1 Archbishop
+		
+Tension and Relaxation
+	Tension will build as the player explores and learns more about the Order.
+	
+	Combat will further raise this tension, with lulls and slight relaxation occuring after.
+	
+	Tension will peak, then decline rapidly, come the final encounter.
+
+Reference Images
+	Environment
+		1) Island - https://www.artstation.com/artwork/6aZdZ0
+		2) Island 2 - https://www.artstation.com/artwork/ROg3W
+		3) Cave Entrance - https://www.artstation.com/artwork/wz38O
+	
+	Inside
+		1) Blood Knights - https://www.artstation.com/artwork/L2Ve2l
+		2) Dark Cathedral - https://www.artstation.com/artwork/ZqxKN
+		3) Open Sky Altar - https://www.wallpaperflare.com/architecture-art-cathedral-colors-creature-dark-demons-wallpaper-ubkms
+		4) Bone Altar - https://www.artstation.com/artwork/XB6ez3
+
+Map		
+	Island Layout
+		Included file
+	
+	Stronghold Layout
+		Included file
